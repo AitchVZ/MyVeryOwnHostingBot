@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sandroller.aternos.host:31879",
+    "ip": "sandroller.aternos.me:31879",
     "port": 31879,
     "version": "",
     "try-creative": false
